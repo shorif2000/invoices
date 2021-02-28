@@ -1,4 +1,4 @@
-# Technical Test
+# Invoices
 
 ## Tasks
 1. Create an Application that connects to MySQL
@@ -7,10 +7,3 @@
 4. Create a simple list page to show the result
 5. Create a MySQL query that return the quantity of Lines by Invoice (It is not necessary link this query to your sourcecode)
 
-## Info
-- The structure or the DB with some examples can be find on /dump
-- Use the framework of your preference
-- Send your test zipped
-- List on README.md all files with your own code
-
-Good luck :)
